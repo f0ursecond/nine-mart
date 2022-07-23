@@ -19,7 +19,8 @@ function Card()
             <p className="m-auto text-base pt-6">
                 <a className="font-bold text-xs "> @SMK Negeri 9 Semarang </a> <br></br>
                 
-           </p>
+            </p>
+            
         </div>
     )
 }
