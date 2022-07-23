@@ -1,0 +1,32 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+
+/* .judul  {
+    padding-top: 4rem;
+    color: black;
+
+} */
+
+.tabel {
+    border: 1px solid black;
+    margin: auto;
+}
+
+
+
+input[type=text] {
+  
+    
+    
+  }
+
+input[type=submit] {
+        margin-top: 2px;
+        background: black;
+        color: #fff;
+        border: 1px solid #eee;
+        border-radius: 5px;
+        
+}
