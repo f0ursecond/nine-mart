@@ -52,7 +52,7 @@ function Stock() {
           </tr>
         </table>
         <p>
-          <input type="submit"></input>
+          <input type="submit" value="Daftar" className="w-20  mt-2 rounded"></input>
         </p>
         <p className="m-auto text-center text-base pt-5 ">
           <Link to="/view" className="text-blue-800 text-xs font-serif underline ">
@@ -61,7 +61,7 @@ function Stock() {
           </Link>
         </p>
         <p className="m-auto text-center text-base pt-5 ">
-          <Link to="/" className="text-blue-800 text-xs font-serif underline ">
+          <Link to="/card" className="text-blue-800 text-xs font-serif underline ">
             {" "}
             STOK BARANG | TRANSAKSI
           </Link>

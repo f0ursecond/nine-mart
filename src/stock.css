@@ -16,17 +16,12 @@
 
 
 
-input[type=text] {
-  
-    
-    
-  }
 
 input[type=submit] {
-        margin-top: 2px;
+        height: 28px;
         background: black;
         color: #fff;
-        border: 1px solid #eee;
-        border-radius: 5px;
+       
+        border-radius: 2px;
         
 }
